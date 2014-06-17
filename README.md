@@ -1,4 +1,4 @@
-mbed-dev
+Building mbed with Keil uVision 5 for LPC810 chip
 ========
 
-Miscellaneous code snippets for mbed development
+private_settings.py - settings for build.py build script
